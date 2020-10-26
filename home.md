@@ -2,7 +2,8 @@
 
 we're going to learn **modern web dev tools** and workflow.
 
-## Tools we will learn
+**Softwares** We'll use.
+
 1. WebStorm
 2. Git
 3. Web Frameworks
